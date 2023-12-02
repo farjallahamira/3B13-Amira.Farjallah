@@ -1,31 +1,42 @@
 
 body{
   background-color: #FCE09B;
-  font-style: oblique;
+  font-style: oblique;  #9raya{
+    color: red;
+
+  }
+
+
+}
+.name{
+  font-size: 30px;
  
 }
 
 
+
 img{
-weight: 100 px;
-height: auto;
-image-orientation
-: center;
-}
-h1{
-  font-size: xx-large;
-  color :186F65;
-  font-variant-position: sub;
-}
-h2{
-  font-size: x-large;
-  color :B5CB99;
-  font-variant-position: sub;
-}
-#navigation__container{
-  font-size: xx-large;
+  display: block;
+  margin :auto;
 
 }
-.Parc{
+
+
+h1{
+
+  font-size: 90px;
+  color :  #18534f;
+  font-variant-position: sub;
+  text-align: center;
   
+
 }
+h2{
+  font-size: 50px;
+  color :B5CB99;
+  font-variant-position: sub;
+  text-align: center;
+  color: #18534f ;
+}
+
+
